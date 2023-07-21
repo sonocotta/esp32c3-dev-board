@@ -63,19 +63,19 @@ You need to connect USB-C cable, it will be used to power the board, flash over 
 
 Add [https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json](https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json) to the board manager
 
-/img
+![image](https://github.com/sonocotta/esp32c3-dev-board/assets/5459747/14b8795a-7d09-4255-8e0f-dfc38b9a7a9d)
 
 After that you should install **ESP32 by Espressif Systems** from Board Manager
 
-/img
+![image](https://github.com/sonocotta/esp32c3-dev-board/assets/5459747/7e7b5d2a-020d-4dc7-a330-35ae730d93fa)
 
 Select **ESP32 C3 Dev Board** as target and other necessary settings in the board settings after
 
-/img
+![image](https://github.com/sonocotta/esp32c3-dev-board/assets/5459747/14e6aeaf-17e5-4a87-b135-3225f3246d96)
 
-Next press Build or Upload button, it should just work
+Next press Build or Upload button, it should just work (RGB LED will blik white with blinky example)
 
-/img
+![image](https://github.com/sonocotta/esp32c3-dev-board/assets/5459747/72bd1465-141c-43a0-8da1-1ea7acb50d7e)
 
 ### Platformio IDE
  
