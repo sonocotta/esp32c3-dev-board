@@ -51,7 +51,7 @@ ESP32-C3 is an entry-level 32-bit MCU in the ESP32 line. Generally they offer si
 
 ## MCU Pinout 
 
-/img
+![image](https://github.com/sonocotta/esp32c3-dev-board/assets/5459747/79d1982d-ebd9-4a1e-ae32-996773e489e0)
 
 ## How to programm
 
@@ -73,7 +73,10 @@ Next run `Upload: esp32-dev-board` task to start upload over USB. `Monitor` task
 
 Board schematic can be found in the [hardware](/hardware) section
 
-/img
+| Front  | Back  |
+|---|---|
+| ![image](https://github.com/sonocotta/esp32c3-dev-board/assets/5459747/f0c2dec9-9b7e-4834-bbaf-680aeff2f3c5)  |  ![image](https://github.com/sonocotta/esp32c3-dev-board/assets/5459747/c8e27f8e-63ee-4f54-946f-323163768142)
+
 
 - ![image](https://user-images.githubusercontent.com/5459747/206929567-5a68f822-1172-459c-bb34-64ab1ee2019c.png) ESP32-C3 MCU 
 - ![image](https://user-images.githubusercontent.com/5459747/206929650-72bfa8ba-716a-4830-ae14-a2c6ddff8830.png) WS2812B RGB LED
@@ -87,4 +90,4 @@ Available at [Tindie](https://www.tindie.com/products/sonocotta/)
 
 ## Links
 
-- [Product Page](https://www.espressif.com/en/products/socs/esp32-c3)
+- [ESP32-C3 Product Page](https://www.espressif.com/en/products/socs/esp32-c3)
