@@ -61,7 +61,21 @@ You need to connect USB-C cable, it will be used to power the board, flash over 
 
 ### Arduino IDE
 
-/todo
+Add [https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json](https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json) to the board manager
+
+/img
+
+After that you should install **ESP32 by Espressif Systems** from Board Manager
+
+/img
+
+Select **ESP32 C3 Dev Board** as target and other necessary settings in the board settings after
+
+/img
+
+Next press Build or Upload button, it should just work
+
+/img
 
 ### Platformio IDE
  
