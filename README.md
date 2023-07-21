@@ -100,7 +100,7 @@ Board schematic can be found in the [hardware](/hardware) section
 
 ## Where to buy
 
-Available at [Tindie](https://www.tindie.com/products/sonocotta/)
+Available at [Tindie](https://www.tindie.com/products/sonocotta/esp32-c3-development-board)
 
 ## Links
 
