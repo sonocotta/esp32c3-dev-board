@@ -9,7 +9,7 @@ It is based on the ESP32 C3 chip, which provides improved processing capabilitie
 
 The board maintains compatibility with the Arduino Nano form factor, ensuring easy integration into existing projects and making it a drop-in replacement for the traditional Arduino Nano board.
 
-/img
+![image](https://github.com/sonocotta/esp32c3-dev-board/assets/5459747/137f19a5-630f-4d3a-b6d1-4a238644e2a2)
 
 ## Features
 
@@ -47,7 +47,7 @@ ESP32-C3 is an entry-level 32-bit MCU in the ESP32 line. Generally they offer si
 
 ## Board Pinout
 
-/img
+![image](https://github.com/sonocotta/esp32c3-dev-board/assets/5459747/693cd15a-b362-47dd-b92d-4d156b9ac29a)
 
 ## MCU Pinout 
 
